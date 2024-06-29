@@ -1,3 +1,6 @@
+# banco-app-prueba
+Prueba React Native
+
 # Ejecutar el proyecto
 
 Teniendo en cuenta que tienes las configuraciones necesarias para ejecutar un proyecto en React Native, podemos iniciar con el proceso de ejecución.
