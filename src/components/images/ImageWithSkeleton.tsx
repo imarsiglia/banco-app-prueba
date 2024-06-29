@@ -29,7 +29,7 @@ const ImageWithSkeleton: React.FC<ImageWithSkeletonProps> = ({
   return (
     <View testID="image-container" {...containerProps} style={[{width, height}, containerProps?.style]}>
       {isLoading && (
-        <SkeletonPlaceholder testID="skeleton-placeholder">
+        <SkeletonPlaceholder>
           <SkeletonPlaceholder.Item
             width={width}
             height={height}
