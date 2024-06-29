@@ -12,9 +12,13 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		3DEB9E808AB24559873D095E /* RobotoSerif-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C85A74A731634397ABECC3D0 /* RobotoSerif-Medium.ttf */; };
+		4728EEF052324100A0E85D03 /* RobotoSerif-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DDB25C605D454B34B9654BEF /* RobotoSerif-Regular.ttf */; };
 		6673096BD33E76F0E2AD8D12 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 3408668E9A3DC7BCA77DD56E /* PrivacyInfo.xcprivacy */; };
 		7699B88040F8A987B510C191 /* libPods-banco-bancoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-banco-bancoTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		82C691AE4D654C8299C76DB3 /* RobotoSerif-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97D24B4D51C440D79065FAEF /* RobotoSerif-SemiBold.ttf */; };
+		EEAB8705F4574F6DB351B257 /* RobotoSerif-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A8F3A50032CF4CF3BEDCAB14 /* RobotoSerif-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,13 +43,17 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = banco/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = banco/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-banco-bancoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-banco-bancoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3408668E9A3DC7BCA77DD56E /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = banco/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		3408668E9A3DC7BCA77DD56E /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = banco/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-banco.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-banco.debug.xcconfig"; path = "Target Support Files/Pods-banco/Pods-banco.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-banco.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-banco.release.xcconfig"; path = "Target Support Files/Pods-banco/Pods-banco.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-banco-bancoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-banco-bancoTests.debug.xcconfig"; path = "Target Support Files/Pods-banco-bancoTests/Pods-banco-bancoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-banco.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-banco.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = banco/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-banco-bancoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-banco-bancoTests.release.xcconfig"; path = "Target Support Files/Pods-banco-bancoTests/Pods-banco-bancoTests.release.xcconfig"; sourceTree = "<group>"; };
+		97D24B4D51C440D79065FAEF /* RobotoSerif-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoSerif-SemiBold.ttf"; path = "../src/assets/fonts/RobotoSerif-SemiBold.ttf"; sourceTree = "<group>"; };
+		A8F3A50032CF4CF3BEDCAB14 /* RobotoSerif-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoSerif-Bold.ttf"; path = "../src/assets/fonts/RobotoSerif-Bold.ttf"; sourceTree = "<group>"; };
+		C85A74A731634397ABECC3D0 /* RobotoSerif-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoSerif-Medium.ttf"; path = "../src/assets/fonts/RobotoSerif-Medium.ttf"; sourceTree = "<group>"; };
+		DDB25C605D454B34B9654BEF /* RobotoSerif-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoSerif-Regular.ttf"; path = "../src/assets/fonts/RobotoSerif-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -111,6 +119,17 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		301EE1916D744568A6841BE7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A8F3A50032CF4CF3BEDCAB14 /* RobotoSerif-Bold.ttf */,
+				C85A74A731634397ABECC3D0 /* RobotoSerif-Medium.ttf */,
+				DDB25C605D454B34B9654BEF /* RobotoSerif-Regular.ttf */,
+				97D24B4D51C440D79065FAEF /* RobotoSerif-SemiBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -127,6 +146,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				301EE1916D744568A6841BE7 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -249,6 +269,10 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				6673096BD33E76F0E2AD8D12 /* PrivacyInfo.xcprivacy in Resources */,
+				EEAB8705F4574F6DB351B257 /* RobotoSerif-Bold.ttf in Resources */,
+				3DEB9E808AB24559873D095E /* RobotoSerif-Medium.ttf in Resources */,
+				4728EEF052324100A0E85D03 /* RobotoSerif-Regular.ttf in Resources */,
+				82C691AE4D654C8299C76DB3 /* RobotoSerif-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

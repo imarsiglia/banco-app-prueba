@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/RobotoSerif-Bold.ttf",
+      "sha1": "2ac7355c22176cceb788acb68e64975908371539"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSerif-Medium.ttf",
+      "sha1": "3c3cb044570669eca0ca797c1578583bc0fe306e"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSerif-Regular.ttf",
+      "sha1": "1d1465d0ab35d6cbaa4c520bc5be993db7b4ff18"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSerif-SemiBold.ttf",
+      "sha1": "1bae3ba308eeb542cd34f63952ad2eccf463d452"
+    }
+  ]
+}
